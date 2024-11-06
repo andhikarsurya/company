@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee, faAppleAlt, faTree, faSmile, faMagnifyingGlass, faUser, faRecycle } from '@fortawesome/free-solid-svg-icons';
+import { faMagnifyingGlass, faUser, faRecycle } from '@fortawesome/free-solid-svg-icons';
 export default function Home() {
   return (
     <div className="flex flex-col items-center w-full overflow-x-hidden bg-gray-100">
