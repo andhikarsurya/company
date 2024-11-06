@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  background-color: aliceblue;
-}
-
 * {
   color: var(--foreground);
   background: var(--background);
